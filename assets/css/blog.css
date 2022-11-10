@@ -42,7 +42,7 @@ h5 {
 
 .underscore {
     display: inline-block;
-    border-bottom: 3px solid #0d6efd;
+    border-bottom: 3px solid #580eeb;
     padding-bottom: 10px;
 }
 
@@ -170,7 +170,7 @@ label {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     content: "\f10e";
-    color: #0d6efd;
+    color: #580eeb;
     padding-right: 10px;
     font-size: 3em;
 }
@@ -194,7 +194,7 @@ ul.list-in-text li:before {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     content: "\f0c8";
-    color: #0d6efd;
+    color: #580eeb;
     padding-right: 10px;
     font-size: 0.8em;
 }
@@ -219,7 +219,7 @@ nav .active::after {
     content: '';
     width: 100%;
     height: 2px;
-    background-color: #0d6efd;
+    background-color: #580eeb;
     align-content: center;
     position: absolute;
     bottom: 0;
@@ -235,7 +235,7 @@ nav .navbar-brand {
 }
 
 nav .nav-link:hover {
-    color: #0d6efd;
+    color: #580eeb;
 }
 
 .navbar-toggler {
@@ -243,7 +243,7 @@ nav .nav-link:hover {
 }
 
 .dark {
-    background-color: #0d6efd;
+    background-color: #580eeb;
     color: white;
 }
 
@@ -266,7 +266,7 @@ nav .nav-link:hover {
 }
 
 .main-slider .fa-chevron-down:hover {
-    color: #0d6efd;
+    color: #580eeb;
 }
 
 .main-slider .hero-img {
@@ -304,7 +304,7 @@ nav .nav-link:hover {
 
 .main-slider .hero-img .hero-text .welcome-text {
     padding-bottom: 25px;
-    border-bottom: 4px solid #0d6efd;
+    border-bottom: 4px solid #580eeb;
 }
 
 .main-slider .hero-img .hero-text .welcome-text span {
@@ -365,7 +365,7 @@ nav .nav-link:hover {
 #posts .posts-wrapper .post-item {
     margin-bottom: 50px;
     padding-left: 20px;
-    border-left: 3px solid #0d6efd;
+    border-left: 3px solid #580eeb;
 }
 
 #posts .posts-wrapper .post-item .post-title {
@@ -417,7 +417,7 @@ nav .nav-link:hover {
 .new-articles .card-img-overlay .line {
     width: 200px;
     height: 2px;
-    background-color: #0d6efd;
+    background-color: #580eeb;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -505,7 +505,7 @@ nav .nav-link:hover {
 
 .single-post .navigation a:hover {
     cursor: pointer;
-    color: #0d6efd;
+    color: #580eeb;
 }
 
 .single-post #commentForm,
@@ -599,7 +599,7 @@ nav .nav-link:hover {
 }
 
 .features .feature-item:hover {
-    color: #0d6efd;
+    color: #580eeb;
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
 }
@@ -628,13 +628,13 @@ nav .nav-link:hover {
 }
 
 .sidebar .input-group #search-button:hover {
-    color: #0d6efd;
+    color: #580eeb;
 }
 
 .sidebar .recent-posts .post-item {
     margin-bottom: 50px;
     padding-left: 20px;
-    border-left: 3px solid #0d6efd;
+    border-left: 3px solid #580eeb;
 }
 
 .sidebar .recent-posts .post-item .post-title {
@@ -692,7 +692,7 @@ nav .nav-link:hover {
 .sidebar .popular .card-img-overlay .line {
     width: 200px;
     height: 2px;
-    background-color: #0d6efd;
+    background-color: #580eeb;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -798,7 +798,7 @@ footer .copyright p a {
     .aboutus .new-articles .card-img-overlay .line {
         width: 200px;
         height: 2px;
-        background-color: #0d6efd;
+        background-color: #580eeb;
         margin-top: 10px;
         margin-bottom: 10px;
     }
